@@ -40,14 +40,19 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
+<!-- Top Languages -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melaxman&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melaxman&layout=compact&cache_seconds=86400" alt="Top Languages" />
 </p>
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melaxman&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=melaxman&show_icons=true&locale=en&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
+<!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melaxman&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melaxman&theme=default&cache_seconds=86400" alt="GitHub Streak" />
 </p>
