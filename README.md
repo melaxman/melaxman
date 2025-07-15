@@ -18,11 +18,16 @@
   <a href="https://khatrilaxman.com.np" target="_blank" rel="noreferrer">
     <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website" height="30" width="40" />
   </a>
-<!--   &nbsp;&nbsp;
-  <a href="https://facebook.com/your-facebook-profile" target="_blank" rel="noreferrer">
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/laxman.khatri.328" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a> -->
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/laxmankhatri328/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
