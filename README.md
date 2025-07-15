@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in **AI and ML**  
 - 🌱 I’m currently a **Bachelor student** in Software Engineering  
-- 💬 Ask me about **Python, Django, FastAPI, and AI/ML basics**  
+- 💬 Ask me about **Python, Django, FastAPI, React , Nodejs and AI/ML basics**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
