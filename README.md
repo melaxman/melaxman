@@ -38,9 +38,16 @@
   </a>
 </p>
 
+## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melaxman&show_icons=true&locale=en&layout=compact" alt="melaxman" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melaxman&layout=compact&theme=default" alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melaxman&show_icons=true&locale=en" alt="melaxman" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=melaxman&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melaxman&" alt="melaxman" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melaxman&theme=default" alt="GitHub Streak" />
+</p>
