@@ -11,10 +11,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/laxman-khatri" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laxman-khatri" height="30" width="40" />
-</a>
+  <a href="https://linkedin.com/in/laxman-khatri" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://khatrilaxman.com.np" target="_blank" rel="noreferrer">
+    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website" height="30" width="40" />
+  </a>
+<!--   &nbsp;&nbsp;
+  <a href="https://facebook.com/your-facebook-profile" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a> -->
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
