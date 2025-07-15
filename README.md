@@ -49,7 +49,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.pgadmin.org/static/img/pgadmin4.svg" alt="pgadmin" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968927.png" alt="pgadmin" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
@@ -58,6 +58,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melaxman&show_icons=true&locale=en&layout=compact" alt="melaxman" /></p>
 
