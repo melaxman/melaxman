@@ -21,8 +21,7 @@
 - 🤖 Exploring **Machine Learning, Deep Learning, and LLMs**
 - 💼 Open to **collaboration** on innovative open-source projects
 - 👀 Interested in **AI, ML, Web Development, and Cloud Technologies**
-- 💬 Ask me about **Python, Django, FastAPI, React, Next.js, Node.js, and AI/ML**
-- 📫 Reach me at: **laxman@khatrilaxman.com.np**
+- 💬 Ask me about **Python, Django, FastAPI, React,Dart, Next.js, Node.js, and AI/ML**
 - 🌐 Portfolio: **[khatrilaxman.com.np](https://khatrilaxman.com.np)**
 - ⚡ Fun fact: **I love turning coffee into code ☕️💻**
 
@@ -43,10 +42,8 @@
   <a href="https://www.instagram.com/laxmankhatri328/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:laxman@khatrilaxman.com.np">
+
+  <a href="mailto:laxmankhatri568@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -70,8 +67,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI" />
+ 
 </p>
 
 ### Backend Development
@@ -80,14 +76,13 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  
 </p>
 
 ### Database & Cloud
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -115,40 +110,6 @@
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-### 🔥 [Your Best Project Name](https://github.com/melaxman/project-repo)
-**AI-Powered Application | Next.js + FastAPI + PostgreSQL**
-
-Brief description of your most impressive project. What problem does it solve? What technologies did you use?
-
-[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melaxman/project-repo)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](https://your-demo.vercel.app)
-
----
-
-### 💡 [Second Project Name](https://github.com/melaxman/project-repo-2)
-**Full-Stack Web App | React + Django + Docker**
-
-Brief description of another impressive project.
-
-[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melaxman/project-repo-2)
-
----
-
-### 🤖 [Machine Learning Project](https://github.com/melaxman/ml-project)
-**ML Model | Python + TensorFlow + Flask**
-
-Description of your ML/AI project.
-
-[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melaxman/ml-project)
-
-</div>
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -171,60 +132,19 @@ Description of your ML/AI project.
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melaxman&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/melaxman/melaxman/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/melaxman/melaxman/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/melaxman/melaxman/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ## 💼 Work Experience & Education
 
 ### 🎓 Education
-- **Bachelor in Software Engineering** - [Your University Name] (2021 - Present)
+- **Bachelor in Software Engineering** - [Nepal College Of Information And Technology] (2022 - Present)
   - Focus: Full-Stack Development, AI/ML, Data Structures & Algorithms
 
 ### 💻 Experience
-- **Freelance Developer** - Building custom web applications for clients
-- **Open Source Contributor** - Contributing to various projects on GitHub
-- **Personal Projects** - Developing AI/ML and full-stack applications
+- **FrontEnd Developer** - Internship(BG Tech)
+- **Personal Projects** - Developing AI/ML,IOT and full-stack applications
 
 ---
 
-## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to Build a Full-Stack App with Next.js and Django](https://yourblog.com)
-- [Getting Started with Machine Learning in Python](https://yourblog.com)
-- [Best Practices for FastAPI Development](https://yourblog.com)
-- [Deploy Your React App to Vercel in 5 Minutes](https://yourblog.com)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More blog posts...](https://khatrilaxman.com.np/blog)
-
----
-
-## 🎯 Current Goals for 2025
-
-- 🚀 Contribute to **5+ major open-source projects**
-- 📚 Master **Cloud Architecture (AWS/Azure)**
-- 🤖 Build **3 AI-powered applications**
-- 📝 Write **technical blog posts weekly**
-- 🏆 Participate in **hackathons and coding competitions**
-- 🌟 Reach **1000+ GitHub followers**
-
----
 
 ## 💡 Random Dev Quote
 
@@ -234,13 +154,7 @@ Description of your ML/AI project.
 
 ---
 
-## 🎵 Spotify Playing
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="Spotify Playing" />
-</p>
-
----
 
 ## 📫 Let's Collaborate!
 
@@ -254,7 +168,7 @@ I'm always open to interesting conversations and collaboration opportunities. Wh
 **Feel free to reach out!**
 
 <p align="center">
-  <a href="mailto:laxman@khatrilaxman.com.np">
+  <a href="mailto:laxmankhatri568@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://khatrilaxman.com.np">
@@ -272,6 +186,4 @@ I'm always open to interesting conversations and collaboration opportunities. Wh
   <img src="https://komarev.com/ghpvc/?username=melaxman&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  Made with ❤️ by Laxman Khatri
-</p>
+
