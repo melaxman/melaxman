@@ -124,13 +124,7 @@
 
 ---
 
-## 🏅 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=melaxman&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 💼 Work Experience & Education
 
@@ -144,15 +138,6 @@
 
 ---
 
-
-
-## 💡 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
----
 
 
 
