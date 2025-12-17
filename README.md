@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Building+Scalable+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Full-Stack+Developer;Open+Source+Contributor;Building+Scalable+Applications" alt="Typing SVG" />
 </p>
 
 ---
