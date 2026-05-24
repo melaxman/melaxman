@@ -106,11 +106,8 @@
 
 
 
-## 💼 Work Experience & Education
+## 💼 Work Experience
 
-### 🎓 Education
-- **Bachelor in Software Engineering** - [Nepal College Of Information And Technology] (2022 - Present)
-  - Focus: Full-Stack Development, AI/ML, Data Structures & Algorithms
 
 ### 💻 Experience
 - **FrontEnd Developer** - Internship(BG Tech)
