@@ -22,7 +22,6 @@
 - 💼 Open to **collaboration** on innovative open-source projects
 - 👀 Interested in **AI, ML, Web Development, and Cloud Technologies**
 - 💬 Ask me about **Python, Django, FastAPI, React,Dart, Next.js, Node.js, and AI/ML**
-- 🌐 Portfolio: **[khatrilaxman.com.np](https://khatrilaxman.com.np)**
 - ⚡ Fun fact: **I love turning coffee into code ☕️💻**
 
 ---
