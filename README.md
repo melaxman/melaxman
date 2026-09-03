@@ -17,10 +17,10 @@
 
 - 🔭 Currently working on **AI-powered web applications and ML projects**
 - 🌱 I'm a **Bachelor student** studying Software Engineering
-- 👨‍💻 Building projects with **Next.js, React, Django, FastAPI, and Node.js**
+- 👨‍💻 Building projects with **Next.js, React, Django, React Native, FastAPI, and Node.js**
 - 🤖 Exploring **Machine Learning, Deep Learning, and LLMs**
 - 💼 Open to **collaboration** on innovative open-source projects
-- 👀 Interested in **AI, ML, Web Development, and Cloud Technologies**
+- 👀 Interested in **AI, ML, Web Development, Mobile Development and Cloud Technologies**
 - 💬 Ask me about **Python, Django, FastAPI, React,Dart, Next.js, Node.js, and AI/ML**
 - ⚡ Fun fact: **I love turning coffee into code ☕️💻**
 
